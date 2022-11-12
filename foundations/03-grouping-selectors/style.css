@@ -1,0 +1,13 @@
+.unique1,.unique2{
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+.unique1{
+    background-color: black;
+    color: white;
+}
+
+.unique2{
+    background-color: yellow;
+}
